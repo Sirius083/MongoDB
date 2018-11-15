@@ -37,6 +37,7 @@ import more_itertools as mit
 #                            计算用到的函数
 #==============================================================================
 # 对 vnpy 收到的郑商所数据，CF801--> CF1801
+
 # 包括期权数据
 def changeZSNameAddyear(contract):
     ZS = ['CF','RS','OI','RM','SR','PM','WH','RI','MA','FG','ZC','JR','LR','SM','SF','TA','CY','AP']
